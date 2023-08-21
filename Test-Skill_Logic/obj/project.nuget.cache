@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "snbWbLN7dijyjHbg4kQ8BTL5pni+icWC38SoRlGOJfGg08qFDfHCqTMqwsKAeevyOmv4l0HnhpU2ZITcZ0Z3og==",
+  "success": true,
+  "projectFilePath": "A:\\Project\\Test-Skill\\Test-Skill_Logic\\Test-Skill_Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JustKaneri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JustKaneri\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JustKaneri\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\JustKaneri\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\JustKaneri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\JustKaneri\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
